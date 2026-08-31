@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     },
 
     numberBadge: {
-        backgroundColor: "rgba(224, 85, 95, 0.15)",
+        backgroundColor: "rgba(250, 245, 245, 0.9)",
         borderRadius: 8,
         paddingHorizontal: 8,
         paddingVertical: 3,

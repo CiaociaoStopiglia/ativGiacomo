@@ -17,18 +17,18 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#eff6ff",
+    backgroundColor: "#0F1F17",
     justifyContent: "center",
     alignItems: "center",
   },
   title: {
     fontSize: 22,
     fontWeight: "bold",
-    color: "#0d47a1",
+    color: "#ffffff",
   },
   subtitle: {
     fontSize: 14,
-    color: "#475569",
+    color: "#56684f",
     marginTop: 8,
   },
   tripletitle: {
