@@ -52,19 +52,39 @@ export default function TabsLayout() {
         }}
       />
 
-      {/* 🔴 Aba de Excluir com o Ícone da Lixeira */}
       <Tabs.Screen
         name="jogos-deletar"
         options={{
           title: "Excluir",
           headerTitle: "Excluir Jogo",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="trash-outline" size={size} color={color} /> // 👈 Botão de deletar aqui
+            <Ionicons name="trash-outline" size={size} color={color} />
           ),
         }}
       />
 
-      {/* Rotas ocultas da barra inferior */}
+      <Tabs.Screen
+        name="jogos-buscar"
+        options={{
+          title: "Buscar",
+          headerTitle: "Buscar Jogos",
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="search-outline" size={size} color={color} />
+          ),
+        }}
+      />
+
+      <Tabs.Screen
+        name="jogos-editar"
+        options={{
+          title: "Editar",
+          headerTitle: "Editar Jogos",
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="pencil-outline" size={size} color={color} />
+          ),
+        }}
+      />
+
       <Tabs.Screen name="aulas" options={{ href: null }} />
       <Tabs.Screen name="filmes" options={{ href: null }} />
       <Tabs.Screen name="interface" options={{ href: null }} />
