@@ -89,7 +89,7 @@ export default function Exemplo () {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#0F1F17"
+        backgroundColor: "#ffffff"
     },
 
     content: {
@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     },
 
     eyebrow: {
-        color: "#E0555F",
+        color: "#f88e65",
         fontSize: 11,
         fontWeight: "700",
         letterSpacing: 1.5,
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        color: "#F4F2E4",
+        color: "#f88e65",
         fontSize: 32,
         fontWeight: "700",
         lineHeight: 38,
@@ -124,14 +124,14 @@ const styles = StyleSheet.create({
     },
 
     description: {
-        color: "#8E9488",
+        color: "#9b6648",
         fontSize: 15,
         lineHeight: 22,
         marginBottom: 40,
     },
 
     sectionTitle: {
-        color: "#F4F2E4",
+        color: "#f88e65",
         fontSize: 18,
         fontWeight: "700",
         marginBottom: 16,
@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
     },
 
     card: {
-        backgroundColor: "#182A21",
+        backgroundColor: "#f7bb99",
         borderRadius: 18,
         padding: 20,
         fontSize: 32,
@@ -166,13 +166,13 @@ const styles = StyleSheet.create({
     },
 
     number: {
-        color: "#E0555F",
+        color: "#f88e65",
         fontSize: 12,
         fontWeight: "800",
     },
 
     week: {
-        color: "#5F6B60",
+        color: "#df784f",
         fontSize: 11,
         fontWeight: "600",
         letterSpacing: 0.3,
@@ -186,7 +186,7 @@ const styles = StyleSheet.create({
     },
 
     cardDescription: {
-        color: "#8E9488",
+        color: "#fcfcfc",
         fontSize: 13.5,
         lineHeight: 20,
     }

@@ -83,15 +83,15 @@ export default function JogosScreen() {
   }
 
   const styles = StyleSheet.create({
-  safeArea: { flex: 1, backgroundColor: "#0F1F17" },
+  safeArea: { flex: 1, backgroundColor: "#ffffff" },
   conteudo: { padding: 24, paddingBottom: 48 },
   header: { marginBottom: 16 },
-  tituloPagina: { fontSize: 24, fontWeight: "800", color: "#fff6f6" },
-  subtitulo: { fontSize: 14, color: "#5f6b7a", marginTop: 2 },
+  tituloPagina: { fontSize: 24, fontWeight: "800", color: "#f88e65" },
+  subtitulo: { fontSize: 14, color: "#9b6648", marginTop: 2 },
   secao: {
     fontSize: 16,
     fontWeight: "700",
-    color: "#E0555F",
+    color: "#e26d3e",
     marginTop: 12,
     marginBottom: 8,
   },
@@ -107,7 +107,7 @@ export default function JogosScreen() {
     backgroundColor: "white",
   },
   botao: {
-    backgroundColor: "#182A21",
+    backgroundColor: "#f88e65",
     paddingVertical: 14,
     borderRadius: 10,
     alignItems: "center",

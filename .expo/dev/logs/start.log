@@ -1,0 +1,271 @@
+{"_e":"root:init","_t":1789404387871,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789404387872,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789404387878,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789404389373,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789404390373,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789404391629,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789404402485,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789404698463,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1789404698464,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404698470,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404701048,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789404701148,"id":"1","progress":0.09,"total":10,"current":3}
+{"_e":"metro:bundling:progress","_t":1789404701314,"id":"1","progress":0.14792899408284024,"total":13,"current":5}
+{"_e":"metro:bundling:progress","_t":1789404701340,"id":"1","progress":0.21301775147928997,"total":13,"current":6}
+{"_e":"metro:bundling:progress","_t":1789404701441,"id":"1","progress":0.21301775147928997,"total":21,"current":9}
+{"_e":"metro:bundling:progress","_t":1789404701546,"id":"1","progress":0.21301775147928997,"total":29,"current":12}
+{"_e":"metro:bundling:progress","_t":1789404701647,"id":"1","progress":0.31228373702422146,"total":34,"current":19}
+{"_e":"metro:bundling:progress","_t":1789404701748,"id":"1","progress":0.31228373702422146,"total":39,"current":20}
+{"_e":"metro:bundling:progress","_t":1789404701890,"id":"1","progress":0.3380205516495403,"total":43,"current":25}
+{"_e":"metro:bundling:progress","_t":1789404701996,"id":"1","progress":0.36560302866414274,"total":43,"current":26}
+{"_e":"metro:bundling:progress","_t":1789404702096,"id":"1","progress":0.4929832503395202,"total":47,"current":33}
+{"_e":"metro:bundling:progress","_t":1789404702199,"id":"1","progress":0.5776,"total":50,"current":38}
+{"_e":"metro:bundling:progress","_t":1789404702304,"id":"1","progress":0.6639231824417009,"total":54,"current":44}
+{"_e":"metro:bundling:progress","_t":1789404702427,"id":"1","progress":0.7181844297615627,"total":59,"current":50}
+{"_e":"metro:bundling:progress","_t":1789404702567,"id":"1","progress":0.7802777777777777,"total":60,"current":53}
+{"_e":"metro:bundling:progress","_t":1789404703365,"id":"1","progress":0.81,"total":60,"current":54}
+{"_e":"metro:bundling:progress","_t":1789404703465,"id":"1","progress":0.81,"total":77,"current":62}
+{"_e":"metro:bundling:progress","_t":1789404703576,"id":"1","progress":0.81,"total":118,"current":70}
+{"_e":"metro:bundling:progress","_t":1789404703675,"id":"1","progress":0.81,"total":233,"current":82}
+{"_e":"metro:bundling:progress","_t":1789404703781,"id":"1","progress":0.81,"total":264,"current":95}
+{"_e":"metro:bundling:progress","_t":1789404703883,"id":"1","progress":0.81,"total":287,"current":111}
+{"_e":"metro:bundling:progress","_t":1789404703986,"id":"1","progress":0.81,"total":312,"current":114}
+{"_e":"metro:bundling:progress","_t":1789404704089,"id":"1","progress":0.81,"total":341,"current":118}
+{"_e":"metro:bundling:progress","_t":1789404704191,"id":"1","progress":0.81,"total":349,"current":130}
+{"_e":"metro:bundling:progress","_t":1789404704292,"id":"1","progress":0.81,"total":369,"current":146}
+{"_e":"metro:bundling:progress","_t":1789404704392,"id":"1","progress":0.81,"total":380,"current":159}
+{"_e":"metro:bundling:progress","_t":1789404704493,"id":"1","progress":0.81,"total":408,"current":180}
+{"_e":"metro:bundling:progress","_t":1789404704595,"id":"1","progress":0.81,"total":439,"current":212}
+{"_e":"metro:bundling:progress","_t":1789404704696,"id":"1","progress":0.81,"total":479,"current":243}
+{"_e":"metro:bundling:progress","_t":1789404704798,"id":"1","progress":0.81,"total":491,"current":265}
+{"_e":"metro:bundling:progress","_t":1789404704899,"id":"1","progress":0.81,"total":546,"current":279}
+{"_e":"metro:bundling:progress","_t":1789404705360,"id":"1","progress":0.81,"total":546,"current":280}
+{"_e":"metro:bundling:progress","_t":1789404705460,"id":"1","progress":0.81,"total":558,"current":294}
+{"_e":"metro:bundling:progress","_t":1789404705563,"id":"1","progress":0.81,"total":575,"current":308}
+{"_e":"metro:bundling:progress","_t":1789404705665,"id":"1","progress":0.81,"total":606,"current":321}
+{"_e":"metro:bundling:progress","_t":1789404705767,"id":"1","progress":0.81,"total":607,"current":330}
+{"_e":"metro:bundling:progress","_t":1789404705870,"id":"1","progress":0.81,"total":627,"current":364}
+{"_e":"metro:bundling:progress","_t":1789404705970,"id":"1","progress":0.81,"total":666,"current":400}
+{"_e":"metro:bundling:progress","_t":1789404706070,"id":"1","progress":0.81,"total":705,"current":435}
+{"_e":"metro:bundling:progress","_t":1789404706170,"id":"1","progress":0.81,"total":743,"current":459}
+{"_e":"metro:bundling:progress","_t":1789404706270,"id":"1","progress":0.81,"total":770,"current":477}
+{"_e":"metro:bundling:progress","_t":1789404706370,"id":"1","progress":0.81,"total":800,"current":499}
+{"_e":"metro:bundling:progress","_t":1789404706470,"id":"1","progress":0.81,"total":820,"current":520}
+{"_e":"metro:bundling:progress","_t":1789404706571,"id":"1","progress":0.81,"total":857,"current":543}
+{"_e":"metro:bundling:progress","_t":1789404706671,"id":"1","progress":0.81,"total":880,"current":572}
+{"_e":"metro:bundling:progress","_t":1789404706772,"id":"1","progress":0.81,"total":913,"current":594}
+{"_e":"metro:bundling:progress","_t":1789404706871,"id":"1","progress":0.81,"total":921,"current":606}
+{"_e":"metro:bundling:progress","_t":1789404707134,"id":"1","progress":0.81,"total":921,"current":607}
+{"_e":"metro:bundling:progress","_t":1789404707235,"id":"1","progress":0.81,"total":922,"current":612}
+{"_e":"metro:bundling:progress","_t":1789404707339,"id":"1","progress":0.81,"total":929,"current":621}
+{"_e":"metro:bundling:progress","_t":1789404707444,"id":"1","progress":0.81,"total":929,"current":626}
+{"_e":"metro:bundling:progress","_t":1789404707545,"id":"1","progress":0.81,"total":931,"current":638}
+{"_e":"metro:bundling:progress","_t":1789404707649,"id":"1","progress":0.81,"total":937,"current":643}
+{"_e":"metro:bundling:progress","_t":1789404707749,"id":"1","progress":0.81,"total":944,"current":651}
+{"_e":"metro:bundling:progress","_t":1789404707849,"id":"1","progress":0.81,"total":947,"current":664}
+{"_e":"metro:bundling:progress","_t":1789404707958,"id":"1","progress":0.81,"total":955,"current":688}
+{"_e":"metro:bundling:progress","_t":1789404708058,"id":"1","progress":0.81,"total":955,"current":706}
+{"_e":"metro:bundling:progress","_t":1789404708158,"id":"1","progress":0.81,"total":961,"current":720}
+{"_e":"metro:bundling:progress","_t":1789404708258,"id":"1","progress":0.81,"total":963,"current":743}
+{"_e":"metro:bundling:progress","_t":1789404708360,"id":"1","progress":0.81,"total":971,"current":763}
+{"_e":"metro:bundling:progress","_t":1789404708464,"id":"1","progress":0.81,"total":976,"current":783}
+{"_e":"metro:bundling:progress","_t":1789404708564,"id":"1","progress":0.81,"total":984,"current":799}
+{"_e":"metro:bundling:progress","_t":1789404708679,"id":"1","progress":0.81,"total":984,"current":804}
+{"_e":"metro:bundling:progress","_t":1789404708781,"id":"1","progress":0.81,"total":993,"current":836}
+{"_e":"metro:bundling:progress","_t":1789404708883,"id":"1","progress":0.81,"total":1002,"current":859}
+{"_e":"metro:bundling:progress","_t":1789404708985,"id":"1","progress":0.81,"total":1017,"current":883}
+{"_e":"metro:bundling:progress","_t":1789404709086,"id":"1","progress":0.81,"total":1030,"current":916}
+{"_e":"metro:bundling:progress","_t":1789404709186,"id":"1","progress":0.81,"total":1038,"current":929}
+{"_e":"metro:bundling:progress","_t":1789404709288,"id":"1","progress":0.81,"total":1040,"current":934}
+{"_e":"metro:bundling:progress","_t":1789404709390,"id":"1","progress":0.81,"total":1046,"current":939}
+{"_e":"metro:bundling:progress","_t":1789404709501,"id":"1","progress":0.8179352097949394,"total":1046,"current":946}
+{"_e":"metro:bundling:progress","_t":1789404709601,"id":"1","progress":0.819248259994455,"total":1054,"current":954}
+{"_e":"metro:bundling:progress","_t":1789404709702,"id":"1","progress":0.8228467464791897,"total":1055,"current":957}
+{"_e":"metro:bundling:progress","_t":1789404709802,"id":"1","progress":0.8234834116672507,"total":1059,"current":961}
+{"_e":"metro:bundling:progress","_t":1789404709905,"id":"1","progress":0.8234834116672507,"total":1066,"current":966}
+{"_e":"metro:bundling:progress","_t":1789404710010,"id":"1","progress":0.825210935452878,"total":1070,"current":972}
+{"_e":"metro:bundling:progress","_t":1789404710113,"id":"1","progress":0.8358696775639284,"total":1073,"current":981}
+{"_e":"metro:bundling:progress","_t":1789404710214,"id":"1","progress":0.8452408049536134,"total":1079,"current":992}
+{"_e":"metro:bundling:progress","_t":1789404710319,"id":"1","progress":0.8452408049536134,"total":1110,"current":1015}
+{"_e":"metro:bundling:progress","_t":1789404710420,"id":"1","progress":0.8631977862942345,"total":1114,"current":1035}
+{"_e":"metro:bundling:progress","_t":1789404710521,"id":"1","progress":0.865910624527705,"total":1123,"current":1045}
+{"_e":"metro:bundling:progress","_t":1789404710596,"id":"1","progress":0.867568662682406,"total":1123,"current":1046}
+{"_e":"metro:bundling:progress","_t":1789404710696,"id":"1","progress":0.8685844810148708,"total":1132,"current":1055}
+{"_e":"metro:bundling:progress","_t":1789404710801,"id":"1","progress":0.8775692369120672,"total":1139,"current":1067}
+{"_e":"metro:bundling:progress","_t":1789404710902,"id":"1","progress":0.8775692369120672,"total":1148,"current":1074}
+{"_e":"metro:bundling:progress","_t":1789404711002,"id":"1","progress":0.8847652720545323,"total":1162,"current":1093}
+{"_e":"metro:bundling:progress","_t":1789404711107,"id":"1","progress":0.8969109004179426,"total":1171,"current":1109}
+{"_e":"metro:bundling:progress","_t":1789404711208,"id":"1","progress":0.9121868715886239,"total":1180,"current":1127}
+{"_e":"metro:bundling:progress","_t":1789404711384,"id":"1","progress":0.9208244056728905,"total":1188,"current":1140}
+{"_e":"metro:bundling:progress","_t":1789404711485,"id":"1","progress":0.9503389779300742,"total":1193,"current":1163}
+{"_e":"metro:bundling:progress","_t":1789404711586,"id":"1","progress":0.9503389779300742,"total":1232,"current":1177}
+{"_e":"metro:bundling:progress","_t":1789404711685,"id":"1","progress":0.9503389779300742,"total":1233,"current":1186}
+{"_e":"metro:bundling:progress","_t":1789404711793,"id":"1","progress":0.9503389779300742,"total":1245,"current":1198}
+{"_e":"metro:bundling:progress","_t":1789404711893,"id":"1","progress":0.9503389779300742,"total":1250,"current":1218}
+{"_e":"metro:bundling:progress","_t":1789404711994,"id":"1","progress":0.977883780071807,"total":1259,"current":1245}
+{"_e":"metro:bundling:progress","_t":1789404712095,"id":"1","progress":0.9795200383156896,"total":1263,"current":1250}
+{"_e":"metro:bundling:progress","_t":1789404712197,"id":"1","progress":0.9859211768272096,"total":1274,"current":1265}
+{"_e":"metro:bundling:progress","_t":1789404712300,"id":"1","progress":0.999,"total":1278,"current":1278}
+{"_e":"metro:bundling:failed","_t":1789404712303,"id":"1","message":"Unable to resolve \"@expo/vector-icons\" from \"app\\(tabs)\\_layout.js\"\n  1 | import { Tabs } from \"expo-router\";\n> 2 | import { Ionicons } from \"@expo/vector-icons\";\n    |                           ^\n  3 |\n  4 | export default function TabsLayout() {\n  5 |   return (","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mapp\\(tabs)\\_layout.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"app\\(tabs)\\_layout.js"}
+{"_e":"metro:bundling:started","_t":1789404777805,"id":"2","platform":"ios","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1789404777806,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404777814,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404777916,"id":"2","progress":0.14619377162629757,"total":34,"current":13}
+{"_e":"metro:bundling:progress","_t":1789404778018,"id":"2","progress":0.14619377162629757,"total":185,"current":31}
+{"_e":"metro:bundling:progress","_t":1789404778093,"id":"2","progress":0.14619377162629757,"total":185,"current":32}
+{"_e":"metro:bundling:progress","_t":1789404778192,"id":"2","progress":0.18427126710291492,"total":410,"current":176}
+{"_e":"metro:bundling:progress","_t":1789404778294,"id":"2","progress":0.1932600527433546,"total":414,"current":182}
+{"_e":"metro:bundling:progress","_t":1789404778329,"id":"2","progress":0.19538962402856544,"total":414,"current":183}
+{"_e":"metro:bundling:progress","_t":1789404778429,"id":"2","progress":0.32143407926883705,"total":702,"current":398}
+{"_e":"metro:bundling:progress","_t":1789404778529,"id":"2","progress":0.3292649808738293,"total":718,"current":412}
+{"_e":"metro:bundling:progress","_t":1789404778650,"id":"2","progress":0.3308652943412915,"total":718,"current":413}
+{"_e":"metro:bundling:progress","_t":1789404778750,"id":"2","progress":0.423554711468225,"total":925,"current":602}
+{"_e":"metro:bundling:progress","_t":1789404778850,"id":"2","progress":0.5399908527149797,"total":973,"current":715}
+{"_e":"metro:bundling:progress","_t":1789404778954,"id":"2","progress":0.5590857438493733,"total":987,"current":738}
+{"_e":"metro:bundling:progress","_t":1789404779054,"id":"2","progress":0.7722195861922255,"total":1097,"current":964}
+{"_e":"metro:bundling:progress","_t":1789404779154,"id":"2","progress":0.8251731387220868,"total":1168,"current":1061}
+{"_e":"metro:bundling:progress","_t":1789404779254,"id":"2","progress":0.8251731387220868,"total":1197,"current":1079}
+{"_e":"metro:bundling:progress","_t":1789404779354,"id":"2","progress":0.8742099920387294,"total":1246,"current":1165}
+{"_e":"metro:bundling:progress","_t":1789404779454,"id":"2","progress":0.9094825658532222,"total":1295,"current":1235}
+{"_e":"metro:bundling:progress","_t":1789404779555,"id":"2","progress":0.9686469739973198,"total":1329,"current":1308}
+{"_e":"metro:bundling:progress","_t":1789404779655,"id":"2","progress":0.9896258574743503,"total":1346,"current":1339}
+{"_e":"metro:bundling:progress","_t":1789404779774,"id":"2","progress":0.999,"total":1353,"current":1353}
+{"_e":"metro:bundling:done","_t":1789404780143,"id":"2","total":1353,"ms":2337.5312}
+{"_e":"metro:client_log","_t":1789404781179,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789404781180,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789404781180,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789404781183,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"root:init","_t":1789404853844,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789404853846,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789404853853,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789404855555,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789404857289,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789404858781,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789404871765,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789404881087,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1789404881087,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404881092,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789404883752,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789404883854,"id":"1","progress":0.09,"total":10,"current":3}
+{"_e":"metro:bundling:progress","_t":1789404884014,"id":"1","progress":0.14792899408284024,"total":13,"current":5}
+{"_e":"metro:bundling:progress","_t":1789404884047,"id":"1","progress":0.21301775147928997,"total":13,"current":6}
+{"_e":"metro:bundling:progress","_t":1789404884155,"id":"1","progress":0.21301775147928997,"total":20,"current":8}
+{"_e":"metro:bundling:progress","_t":1789404884265,"id":"1","progress":0.21301775147928997,"total":28,"current":11}
+{"_e":"metro:bundling:progress","_t":1789404884366,"id":"1","progress":0.25,"total":32,"current":16}
+{"_e":"metro:bundling:progress","_t":1789404884468,"id":"1","progress":0.31228373702422146,"total":34,"current":19}
+{"_e":"metro:bundling:progress","_t":1789404884572,"id":"1","progress":0.31228373702422146,"total":42,"current":23}
+{"_e":"metro:bundling:progress","_t":1789404884745,"id":"1","progress":0.32653061224489793,"total":42,"current":24}
+{"_e":"metro:bundling:progress","_t":1789404884848,"id":"1","progress":0.45415879017013233,"total":46,"current":31}
+{"_e":"metro:bundling:progress","_t":1789404884962,"id":"1","progress":0.5776,"total":50,"current":38}
+{"_e":"metro:bundling:progress","_t":1789404885074,"id":"1","progress":0.6639231824417009,"total":54,"current":44}
+{"_e":"metro:bundling:progress","_t":1789404885179,"id":"1","progress":0.7181844297615627,"total":59,"current":50}
+{"_e":"metro:bundling:progress","_t":1789404885286,"id":"1","progress":0.7511111111111112,"total":60,"current":52}
+{"_e":"metro:bundling:progress","_t":1789404885391,"id":"1","progress":0.7802777777777777,"total":60,"current":53}
+{"_e":"metro:bundling:progress","_t":1789404886175,"id":"1","progress":0.81,"total":60,"current":54}
+{"_e":"metro:bundling:progress","_t":1789404886278,"id":"1","progress":0.81,"total":76,"current":62}
+{"_e":"metro:bundling:progress","_t":1789404886378,"id":"1","progress":0.81,"total":120,"current":72}
+{"_e":"metro:bundling:progress","_t":1789404886478,"id":"1","progress":0.81,"total":230,"current":81}
+{"_e":"metro:bundling:progress","_t":1789404886581,"id":"1","progress":0.81,"total":264,"current":94}
+{"_e":"metro:bundling:progress","_t":1789404886681,"id":"1","progress":0.81,"total":307,"current":102}
+{"_e":"metro:bundling:progress","_t":1789404886782,"id":"1","progress":0.81,"total":330,"current":114}
+{"_e":"metro:bundling:progress","_t":1789404886891,"id":"1","progress":0.81,"total":342,"current":121}
+{"_e":"metro:bundling:progress","_t":1789404886990,"id":"1","progress":0.81,"total":361,"current":133}
+{"_e":"metro:bundling:progress","_t":1789404887094,"id":"1","progress":0.81,"total":373,"current":142}
+{"_e":"metro:bundling:progress","_t":1789404887195,"id":"1","progress":0.81,"total":399,"current":158}
+{"_e":"metro:bundling:progress","_t":1789404887295,"id":"1","progress":0.81,"total":425,"current":191}
+{"_e":"metro:bundling:progress","_t":1789404887396,"id":"1","progress":0.81,"total":443,"current":221}
+{"_e":"metro:bundling:progress","_t":1789404887497,"id":"1","progress":0.81,"total":467,"current":246}
+{"_e":"metro:bundling:progress","_t":1789404887599,"id":"1","progress":0.81,"total":493,"current":266}
+{"_e":"metro:bundling:progress","_t":1789404887700,"id":"1","progress":0.81,"total":539,"current":274}
+{"_e":"metro:bundling:progress","_t":1789404887800,"id":"1","progress":0.81,"total":549,"current":286}
+{"_e":"metro:bundling:progress","_t":1789404887901,"id":"1","progress":0.81,"total":576,"current":308}
+{"_e":"metro:bundling:progress","_t":1789404888003,"id":"1","progress":0.81,"total":598,"current":318}
+{"_e":"metro:bundling:progress","_t":1789404888103,"id":"1","progress":0.81,"total":623,"current":322}
+{"_e":"metro:bundling:progress","_t":1789404888571,"id":"1","progress":0.81,"total":623,"current":323}
+{"_e":"metro:bundling:progress","_t":1789404888671,"id":"1","progress":0.81,"total":631,"current":334}
+{"_e":"metro:bundling:progress","_t":1789404888774,"id":"1","progress":0.81,"total":641,"current":348}
+{"_e":"metro:bundling:progress","_t":1789404888875,"id":"1","progress":0.81,"total":663,"current":379}
+{"_e":"metro:bundling:progress","_t":1789404888976,"id":"1","progress":0.81,"total":686,"current":404}
+{"_e":"metro:bundling:progress","_t":1789404889076,"id":"1","progress":0.81,"total":742,"current":441}
+{"_e":"metro:bundling:progress","_t":1789404889177,"id":"1","progress":0.81,"total":756,"current":460}
+{"_e":"metro:bundling:progress","_t":1789404889278,"id":"1","progress":0.81,"total":793,"current":482}
+{"_e":"metro:bundling:progress","_t":1789404889381,"id":"1","progress":0.81,"total":812,"current":502}
+{"_e":"metro:bundling:progress","_t":1789404889487,"id":"1","progress":0.81,"total":831,"current":522}
+{"_e":"metro:bundling:progress","_t":1789404889587,"id":"1","progress":0.81,"total":874,"current":549}
+{"_e":"metro:bundling:progress","_t":1789404889687,"id":"1","progress":0.81,"total":906,"current":573}
+{"_e":"metro:bundling:progress","_t":1789404889788,"id":"1","progress":0.81,"total":923,"current":593}
+{"_e":"metro:bundling:progress","_t":1789404889890,"id":"1","progress":0.81,"total":980,"current":620}
+{"_e":"metro:bundling:progress","_t":1789404889993,"id":"1","progress":0.81,"total":989,"current":639}
+{"_e":"metro:bundling:progress","_t":1789404890094,"id":"1","progress":0.81,"total":991,"current":647}
+{"_e":"metro:bundling:progress","_t":1789404890194,"id":"1","progress":0.81,"total":992,"current":653}
+{"_e":"metro:bundling:progress","_t":1789404890294,"id":"1","progress":0.81,"total":1005,"current":660}
+{"_e":"metro:bundling:progress","_t":1789404890396,"id":"1","progress":0.81,"total":1005,"current":661}
+{"_e":"metro:bundling:progress","_t":1789404890497,"id":"1","progress":0.81,"total":1006,"current":666}
+{"_e":"metro:bundling:progress","_t":1789404890601,"id":"1","progress":0.81,"total":1006,"current":672}
+{"_e":"metro:bundling:progress","_t":1789404890701,"id":"1","progress":0.81,"total":1007,"current":679}
+{"_e":"metro:bundling:progress","_t":1789404890801,"id":"1","progress":0.81,"total":1015,"current":692}
+{"_e":"metro:bundling:progress","_t":1789404890902,"id":"1","progress":0.81,"total":1021,"current":721}
+{"_e":"metro:bundling:progress","_t":1789404891004,"id":"1","progress":0.81,"total":1021,"current":728}
+{"_e":"metro:bundling:progress","_t":1789404891105,"id":"1","progress":0.81,"total":1021,"current":738}
+{"_e":"metro:bundling:progress","_t":1789404891206,"id":"1","progress":0.81,"total":1024,"current":751}
+{"_e":"metro:bundling:progress","_t":1789404891308,"id":"1","progress":0.81,"total":1030,"current":765}
+{"_e":"metro:bundling:progress","_t":1789404891409,"id":"1","progress":0.81,"total":1035,"current":780}
+{"_e":"metro:bundling:progress","_t":1789404891513,"id":"1","progress":0.81,"total":1040,"current":805}
+{"_e":"metro:bundling:progress","_t":1789404891614,"id":"1","progress":0.81,"total":1044,"current":815}
+{"_e":"metro:bundling:progress","_t":1789404891714,"id":"1","progress":0.81,"total":1048,"current":839}
+{"_e":"metro:bundling:progress","_t":1789404891838,"id":"1","progress":0.81,"total":1051,"current":842}
+{"_e":"metro:bundling:progress","_t":1789404891939,"id":"1","progress":0.81,"total":1064,"current":875}
+{"_e":"metro:bundling:progress","_t":1789404892039,"id":"1","progress":0.81,"total":1067,"current":900}
+{"_e":"metro:bundling:progress","_t":1789404892141,"id":"1","progress":0.81,"total":1083,"current":931}
+{"_e":"metro:bundling:progress","_t":1789404892242,"id":"1","progress":0.81,"total":1085,"current":943}
+{"_e":"metro:bundling:progress","_t":1789404893042,"id":"1","progress":0.81,"total":1085,"current":944}
+{"_e":"metro:bundling:progress","_t":1789404893142,"id":"1","progress":0.81,"total":1096,"current":968}
+{"_e":"metro:bundling:progress","_t":1789404893242,"id":"1","progress":0.81,"total":1106,"current":990}
+{"_e":"metro:bundling:progress","_t":1789404893343,"id":"1","progress":0.8220444444444444,"total":1125,"current":1020}
+{"_e":"metro:bundling:progress","_t":1789404893447,"id":"1","progress":0.8273172175583375,"total":1139,"current":1036}
+{"_e":"metro:bundling:progress","_t":1789404893550,"id":"1","progress":0.8521950382334432,"total":1145,"current":1057}
+{"_e":"metro:bundling:progress","_t":1789404893651,"id":"1","progress":0.8708952624812981,"total":1153,"current":1076}
+{"_e":"metro:bundling:progress","_t":1789404893751,"id":"1","progress":0.8708952624812981,"total":1183,"current":1100}
+{"_e":"metro:bundling:progress","_t":1789404893851,"id":"1","progress":0.8708952624812981,"total":1197,"current":1113}
+{"_e":"metro:bundling:progress","_t":1789404893952,"id":"1","progress":0.8708952624812981,"total":1209,"current":1125}
+{"_e":"metro:bundling:progress","_t":1789404894054,"id":"1","progress":0.8724453213299994,"total":1213,"current":1133}
+{"_e":"metro:bundling:progress","_t":1789404894154,"id":"1","progress":0.8724453213299994,"total":1224,"current":1143}
+{"_e":"metro:bundling:progress","_t":1789404894255,"id":"1","progress":0.8755721011280811,"total":1229,"current":1150}
+{"_e":"metro:bundling:progress","_t":1789404894355,"id":"1","progress":0.8856344223028674,"total":1239,"current":1166}
+{"_e":"metro:bundling:progress","_t":1789404894454,"id":"1","progress":0.9031090770874424,"total":1248,"current":1186}
+{"_e":"metro:bundling:progress","_t":1789404894556,"id":"1","progress":0.9265021190139839,"total":1255,"current":1208}
+{"_e":"metro:bundling:progress","_t":1789404894657,"id":"1","progress":0.9547111350698422,"total":1266,"current":1237}
+{"_e":"metro:bundling:progress","_t":1789404894758,"id":"1","progress":0.9593792768778706,"total":1267,"current":1241}
+{"_e":"metro:bundling:progress","_t":1789404894859,"id":"1","progress":0.9593792768778706,"total":1305,"current":1246}
+{"_e":"metro:bundling:progress","_t":1789404894960,"id":"1","progress":0.9593792768778706,"total":1305,"current":1255}
+{"_e":"metro:bundling:progress","_t":1789404895061,"id":"1","progress":0.9593792768778706,"total":1310,"current":1267}
+{"_e":"metro:bundling:progress","_t":1789404895161,"id":"1","progress":0.9593792768778706,"total":1313,"current":1272}
+{"_e":"metro:bundling:progress","_t":1789404895266,"id":"1","progress":0.9729742237030866,"total":1323,"current":1305}
+{"_e":"metro:bundling:progress","_t":1789404895367,"id":"1","progress":0.9790267999709682,"total":1328,"current":1314}
+{"_e":"metro:bundling:progress","_t":1789404895467,"id":"1","progress":0.9806624124979613,"total":1338,"current":1325}
+{"_e":"metro:bundling:progress","_t":1789404895567,"id":"1","progress":0.9852400548696845,"total":1350,"current":1340}
+{"_e":"metro:bundling:progress","_t":1789404895682,"id":"1","progress":0.999,"total":1353,"current":1353}
+{"_e":"metro:bundling:done","_t":1789404896055,"id":"1","total":1353,"ms":14967.5703}
+{"_e":"metro:bundling:failed","_t":1789405299930,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-criar.js: Unexpected token, expected \",\" (155:19)\n\n  153 |     backgroundColor: \"#f88e65\",\n  154 |     borderColor:\n> 155 |     paddingVertical: 14,\n      |                    ^\n  156 |     borderRadius: 10,\n  157 |     alignItems: \"center\",\n  158 |     marginBottom: 24,","importStack":null,"filename":"app\\(tabs)\\jogos-criar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405302283,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-criar.js: Unexpected token, expected \",\" (155:19)\n\n  153 |     backgroundColor: \"#f88e65\",\n  154 |     borderColor: \n> 155 |     paddingVertical: 14,\n      |                    ^\n  156 |     borderRadius: 10,\n  157 |     alignItems: \"center\",\n  158 |     marginBottom: 24,","importStack":null,"filename":"app\\(tabs)\\jogos-criar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405307850,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-criar.js: Unexpected token, expected \",\" (155:4)\n\n  153 |     backgroundColor: \"#f88e65\",\n  154 |     borderColor: ''\n> 155 |     paddingVertical: 14,\n      |     ^\n  156 |     borderRadius: 10,\n  157 |     alignItems: \"center\",\n  158 |     marginBottom: 24,","importStack":null,"filename":"app\\(tabs)\\jogos-criar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405310957,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-criar.js: Unexpected token, expected \",\" (155:4)\n\n  153 |     backgroundColor: \"#f88e65\",\n  154 |     borderColor: \"#\"\n> 155 |     paddingVertical: 14,\n      |     ^\n  156 |     borderRadius: 10,\n  157 |     alignItems: \"center\",\n  158 |     marginBottom: 24,","importStack":null,"filename":"app\\(tabs)\\jogos-criar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405312049,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-criar.js: Unexpected token, expected \",\" (155:4)\n\n  153 |     backgroundColor: \"#f88e65\",\n  154 |     borderColor: \"#ad6840\"\n> 155 |     paddingVertical: 14,\n      |     ^\n  156 |     borderRadius: 10,\n  157 |     alignItems: \"center\",\n  158 |     marginBottom: 24,","importStack":null,"filename":"app\\(tabs)\\jogos-criar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405876522,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     border\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405879576,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     borderColor\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405880874,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:16)\n\n  144 |     backgroundColor: \"white\",\n  145 |     borderColor:\n> 146 |     borderRadius: 10,\n      |                 ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405882298,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:16)\n\n  144 |     backgroundColor: \"white\",\n  145 |     borderColor: \n> 146 |     borderRadius: 10,\n      |                 ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405884155,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     borderColor: \"\"\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405888661,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (147:4)\n\n  145 |     borderColor: \"\",\n  146 |     border\n> 147 |     borderRadius: 10,\n      |     ^\n  148 |     overflow: \"hidden\",\n  149 |     paddingRight: 12,\n  150 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405895928,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (147:4)\n\n  145 |     borderColor: \"\",\n  146 |     borderWidth\n> 147 |     borderRadius: 10,\n      |     ^\n  148 |     overflow: \"hidden\",\n  149 |     paddingRight: 12,\n  150 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405898741,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (147:4)\n\n  145 |     borderColor: \"\",\n  146 |     borderWidth: \"\"\n> 147 |     borderRadius: 10,\n      |     ^\n  148 |     overflow: \"hidden\",\n  149 |     paddingRight: 12,\n  150 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405983521,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     box\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405989177,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     boxShadow: 1\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789405990212,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:16)\n\n  144 |     backgroundColor: \"white\",\n  145 |     boxShadow: \n> 146 |     borderRadius: 10,\n      |                 ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406000312,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (146:4)\n\n  144 |     backgroundColor: \"white\",\n  145 |     boxShadow: \"\"\n> 146 |     borderRadius: 10,\n      |     ^\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,\n  149 |   },","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406029625,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);\n      |        ^\n  146 |\n  147 |     borderRadius: 10,\n  148 |     overflow: \"hidden\",","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406031451,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25)\n      |        ^\n  146 |     borderRadius: 10,\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406032609,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25),\n      |        ^\n  146 |     borderRadius: 10,\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406054249,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5);\n      |        ^\n  146 |     borderRadius: 10,\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406055701,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5)\n      |        ^\n  146 |     borderRadius: 10,\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1789406056995,"id":null,"message":"SyntaxError: C:\\Users\\Aluno DS\\Downloads\\Continuação-mobile\\ativGiacomo\\app\\(tabs)\\jogos-deletar.js: Unexpected token, expected \",\" (145:7)\n\n  143 |     marginTop: 12,\n  144 |     backgroundColor: \"white\",\n> 145 |     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5),\n      |        ^\n  146 |     borderRadius: 10,\n  147 |     overflow: \"hidden\",\n  148 |     paddingRight: 12,","importStack":null,"filename":"app\\(tabs)\\jogos-deletar.js","targetModuleName":null,"originModulePath":null}
