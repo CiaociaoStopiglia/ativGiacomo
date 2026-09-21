@@ -12,7 +12,7 @@ import {
 import { SafeAreaView } from "react-native-safe-area-context";
 import axios from "axios";
 
-const API_KEY = "cv_4Wzbmq_cSP52WLG8CRjj1ipOGbM4G0kFgT-e39euq91PKudf84jTsW3omAWsBsIO";
+const API_KEY = "cv_cDgFpQYN_oTZYKV-kLfL8EBUwcZKKQgsYC8m9T1aCyXv9mjin604q0g3AdXfINsZ";
 
 const api = axios.create({
   baseURL: "https://api-ds.codeverse.dev.br",

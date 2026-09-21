@@ -26,8 +26,8 @@ const api = axios.create({
   },
 });
 
-// ---------- PUT: editar um herói existente ----------
-// Pra editar, primeiro precisamos saber QUAL herói — por isso a tela
+// ---------- PUT: editar um jogo existente ----------
+// Pra editar, primeiro precisamos saber QUAL jogo — por isso a tela
 // começa mostrando a lista e só depois de tocar em um item é que
 // aparece o formulário, já preenchido com os dados atuais.
 export default function JogosEditarScreen() {
@@ -96,13 +96,13 @@ export default function JogosEditarScreen() {
       });
 
       // Esta API devolve o registro atualizado dentro de "data".
-      Alert.alert("Herói atualizado!", resposta.data.data.title);
+      Alert.alert("jogo atualizado!", resposta.data.data.title);
 
       setSelecionado(null);
       buscarJogos(); // recarrega a lista com o dado novo
     } catch (e) {
       Alert.alert(
-        "Não deu pra atualizar o herói",
+        "Não deu pra atualizar o jogo",
         "A API respondeu com erro. Confere se todos os campos estão certinhos e tenta de novo."
       );
     } finally {
@@ -114,13 +114,13 @@ export default function JogosEditarScreen() {
     <SafeAreaView style={styles.safeArea}>
       <ScrollView contentContainerStyle={styles.conteudo}>
         <View style={styles.header}>
-          <Text style={styles.tituloPagina}>Editar herói</Text>
+          <Text style={styles.tituloPagina}>Editar jogo</Text>
           <Text style={styles.subtitulo}>PUT /api/jogos/:id</Text>
         </View>
 
         {!selecionado && (
           <>
-            <Text style={styles.instrucao}>Toque em um herói pra editar:</Text>
+            <Text style={styles.instrucao}>Toque em um jogo pra editar:</Text>
 
             {carregando && <ActivityIndicator style={{ marginVertical: 16 }} />}
             {erro && <Text style={styles.erro}>{erro}</Text>}
@@ -170,7 +170,7 @@ export default function JogosEditarScreen() {
               style={styles.campo}
               value={anoLancamento}
               onChangeText={setAnoLancamento}
-              placeholder="Ex: DC"
+              placeholder="Ex: 2024"
             />
 
             <Text style={styles.rotulo}>plataforma</Text>
@@ -178,7 +178,7 @@ export default function JogosEditarScreen() {
               style={styles.campo}
               value={plataforma}
               onChangeText={setPlataforma}
-              placeholder="Ex: Humano sem poderes"
+              placeholder="Ex: PlayStation 5"
             />
 
             <Text style={styles.rotulo}>desenvolvedora</Text>
@@ -186,7 +186,7 @@ export default function JogosEditarScreen() {
               style={styles.campo}
               value={desenvolvedora}
               onChangeText={setDesenvolvedora}
-              placeholder="Ex: Humano sem poderes"
+              placeholder="Ex: Santa Monica"
             />
 
             <Pressable style={styles.botao} onPress={salvarEdicao} disabled={salvando}>

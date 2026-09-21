@@ -50,8 +50,16 @@ export default function JogosBuscarScreen() {
     const idLimpo = id.trim();
 
     try {
-      const resposta = await api.get(`/api/jogos/${idLimpo}`);
-      setJogos(resposta.data);
+      const resposta = await api.get("/api/jogos", {
+        params: { limit: 50 },
+      });
+      const jogo = resposta.data.data[idLimpo - 1];
+
+      if (jogo) {
+        setJogos(jogo);
+      } else {
+        setNaoEncontrado(true);
+      }
     } catch (e) {
       if (e.response && e.response.status === 404) {
         setNaoEncontrado(true);

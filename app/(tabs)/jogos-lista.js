@@ -32,7 +32,7 @@ export default function JogosScreen() {
     setErro(null);
     try {
         const resposta = await api.get("/api/jogos", {
-            params: { limit: 50 },
+            params: { limit: 5 },
         });
         setJogos(resposta.data.data);
     } catch (e) {
@@ -60,7 +60,7 @@ export default function JogosScreen() {
           {erro && <Text style={styles.erro}>{erro}</Text>}
   
           {!carregando &&
-          jogos.map((item) => (
+          jogos.map((item, index) => (
               <View key={item.id} style={styles.card}>
                   <Image
                   source={{
@@ -69,7 +69,7 @@ export default function JogosScreen() {
                   style={styles.imagem}
                   />
                   <View style={styles.info}>
-                      <Text style={styles.titulo}>{item.title}</Text>
+                      <Text style={styles.titulo}>{index + 1} - {item.title}</Text>
                       <Text style={styles.categoria}>
                           {item.categoria || item.plataforma || "Sem categoria"}
                           {item.desenvolvedora ? `${item.desenvolvedora}` : ""}
