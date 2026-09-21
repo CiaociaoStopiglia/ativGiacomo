@@ -12,13 +12,8 @@ import {
 import { SafeAreaView } from "react-native-safe-area-context";
 import axios from "axios";
 
-// Em produção, uma chave de API não deveria morar direto no código do
-// app (dá pra extrair de qualquer APK/IPA instalado). Aqui, como é uma
-// API pública de estudo, deixamos direto no código pra simplificar.
 const API_KEY = "cv_4Wzbmq_cSP52WLG8CRjj1ipOGbM4G0kFgT-e39euq91PKudf84jTsW3omAWsBsIO";
 
-// Mesma instância do axios usada nas outras telas, com o header já
-// configurado — toda chamada feita com "api" já sai autenticada.
 const api = axios.create({
   baseURL: "https://api-ds.codeverse.dev.br",
   headers: {
@@ -32,9 +27,6 @@ export default function JogosDeletarScreen() {
   const [carregando, setCarregando] = useState(true);
   const [erro, setErro] = useState(null);
 
-  // id do herói sendo apagado no momento (ou null, se nenhum) — serve
-  // só pra desabilitar/trocar o texto do botão certo enquanto o
-  // DELETE daquele item específico está em andamento.
   const [excluindoId, setExcluindoId] = useState(null);
 
   async function buscarJogos() {
@@ -56,7 +48,6 @@ export default function JogosDeletarScreen() {
     buscarJogos();
   }, []);
 
-  // Sempre confirma antes de apagar de verdade — não tem como desfazer.
   function confirmarExclusao(jogo) {
     Alert.alert(
       "Excluir Jogo",
@@ -75,11 +66,8 @@ export default function JogosDeletarScreen() {
   async function excluirJogo(id) {
     setExcluindoId(id);
     try {
-      // DELETE não manda corpo — só o id na URL, identificando o que apagar.
       await api.delete(`/api/jogos/${id}`);
 
-      // Em vez de buscar a lista de novo na API, só tiramos o item
-      // apagado do estado local — a tela atualiza na hora.
       setJogos((atual) => atual.filter((item) => item.id !== id));
     } catch (e) {
       Alert.alert(

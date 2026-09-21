@@ -115,13 +115,13 @@ export default function JogosBuscarScreen() {
 }
 
 const styles = StyleSheet.create({
-  safeArea: { flex: 1, backgroundColor: "#f8fbff" },
+  safeArea: { flex: 1, backgroundColor: "#ffffff" },
   conteudo: { padding: 24, paddingBottom: 48 },
   header: { marginBottom: 16 },
-  tituloPagina: { fontSize: 24, fontWeight: "800", color: "#102542" },
-  subtitulo: { fontSize: 14, color: "#5f6b7a", marginTop: 2 },
+  tituloPagina: { fontSize: 24, fontWeight: "800", color: "#f88e65" },
+  subtitulo: { fontSize: 14, color: "#9b6648", marginTop: 2 },
 
-  rotulo: { fontSize: 13, fontWeight: "600", color: "#334155", marginBottom: 4 },
+  rotulo: { fontSize: 13, fontWeight: "600", color: "#e0834e", marginBottom: 4 },
   linhaBusca: { flexDirection: "row", gap: 8, alignItems: "flex-start" },
   campo: {
     flex: 1,
@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
   },
   botao: {
-    backgroundColor: "#1565c0",
+    backgroundColor: "#e0834e",
     paddingHorizontal: 18,
     borderRadius: 8,
     alignItems: "center",
